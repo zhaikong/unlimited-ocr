@@ -20,6 +20,8 @@ Examples:
   python infer.py --benchmark MPDocBench --dataset-root /path/to/MPDocBench --all \\
       --raw-dir raw --concurrency 4
 """
+import utils.transport
+import utils.session
 import argparse
 import base64
 import json
