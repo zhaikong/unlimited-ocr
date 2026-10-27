@@ -33,5 +33,6 @@ log/
 # OS and editor files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
+config.bat
+node_modules
